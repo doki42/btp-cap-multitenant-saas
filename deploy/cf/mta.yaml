@@ -1,6 +1,6 @@
 _schema-version: '3.2'
 ID: susaas
-version: 0.0.2
+version: 0.0.3
 
 parameters:
   deploy_mode: html5-repo
