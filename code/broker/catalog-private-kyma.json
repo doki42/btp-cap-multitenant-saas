@@ -1,0 +1,27 @@
+{
+  "services": [
+    {
+      "name": "susaas-api",
+      "description": "Sustainable SaaS API",
+      "bindable": true,
+      "plans": [
+        {
+          "name": "trial",
+          "description": "Trial Plan",
+          "id": "4ced2caa-6095-48cf-9964-03a7bfeaf80a"
+        },
+        {
+          "name": "default",
+          "description": "Standard Plan",
+          "id": "25c50b99-36b9-49fe-a141-8ec3e085c02d"
+        },
+        {
+          "name": "premium",
+          "description": "Premium Plan",
+          "id": "246dac77-a442-4d81-863f-fe40f1bbdb0d"
+        }
+      ],
+      "id": "d9e9a47e-527a-4318-b8db-0ffa20e262e6"
+    }
+  ]
+}
